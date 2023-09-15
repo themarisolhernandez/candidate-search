@@ -1,0 +1,9 @@
+SummaryApple is looking to hire an outstanding Data Scientists with strong technical analytical skills to lead the effort for scalable data enrichment in music metadata. This includes analyzing input data sources, measuring data quality impact, identifying data anomalies, running validation exercises and experimenting with data science to drive improvements. This person will collaborate very closely and cross-functionally with Engineering, Product Management, Analytics and other teams to ensure success.Skills:SQLQueryingPython
+R
+C++
+SAS
+JavaGit
+GitHub
+Jupyter Notebooks
+AWS
+UNIXStatisticsReinforcement learningExcelTableau
